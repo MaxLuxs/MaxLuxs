@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MaxLuxs
+- 👀 I’m interested in mobile and cross-platform development.
+- 🌱 I’m currently learning at https://www.bsuir.by/
+- 📫 How to reach me: max.developer.luxs@gmail.com
